@@ -1,57 +1,41 @@
-# Level1-Task2
-Oasis Infobyte -web development internship
-
-
 # 🌐 Personal Portfolio Website
 
-Welcome to my Personal Portfolio Website repository! This project was created to showcase my skills, projects, certifications, and learning journey as a Computer Science student.
-
-This portfolio serves as a platform to present my work in a professional and visually appealing way while demonstrating my front-end development skills.
-
-This project was developed as part of my Web Development Internship at Oasis Infobyte.
-
----
+A modern and responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScript**.
+This website showcases my skills, projects, and contact information in a clean and professional layout.
 
 ## ✨ Features
 
-🚀 Modern and responsive design  
-🎨 Clean and attractive user interface  
-📱 Mobile-friendly layout  
-🧭 Smooth scrolling navigation  
-📂 Dedicated sections for projects and certifications  
-📬 Contact section for connecting
+* 👩‍💻 Personal introduction section
+* 🧾 About me section describing my background and interests
+* 🛠 Skills section highlighting my technical abilities
+* 📂 Projects section to showcase my work
+* 📞 Contact section with social media links
+* 🎨 Modern dark theme design
+* 📱 Responsive layout for different screen sizes
 
----
+## 🛠 Technologies Used
 
-## 🛠️ Technologies Used
-
-💻 HTML  
-🎨 CSS  
-⚡ JavaScript
-
----
-
-## 📑 Website Sections
-
-🏠 Home  
-👨‍💻 About Me  
-🧠 Skills  
-📞 Contact
-
----
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
 
 ## 🎯 Purpose of the Project
 
-The goal of this portfolio is to create a professional online presence where I can showcase my projects and skills. It also helps me document my learning journey in web development and share my work with recruiters, developers, and the tech community.
+The goal of this project is to create a **personal developer portfolio** to present my skills, projects, and achievements in a professional way.
 
----
+## 💼 Internship
 
-## 👨‍💻 Author
+This project was developed during my **Web Development Internship at Oasis Infobyte**, where I worked on building practical web development projects and improving my frontend development skills.
 
-Kaviya B
-Computer Science Student  
-Aspiring Software Developer
+## 📚 What I Learned
 
----
+* 🧩 Designing a structured and professional portfolio layout
+* 🎨 Creating modern UI using CSS
+* ⚡ Adding interactivity with JavaScript
+* 📐 Organizing content to showcase projects and skills effectively
 
-⭐ If you like this project, feel free to explore the repository and share your feedback!
+## 👩‍💻 Author
+
+**Kaviya B**
+🎓 Computer Science Student
+💻 Aspiring Software Developer
